@@ -1,0 +1,188 @@
+[
+    {
+        "Codigo": "001",
+        "Nome": "Um sonho de Liberdade ",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "002",
+        "Nome": "O Poderoso Chefão ",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+  {
+    "Codigo": "003",
+    "Nome": "O Poderoso Chefão II",
+    "Preco": 49.90,
+    "Sinopse":  "Teste"
+  },
+    {
+        "Codigo": "004",
+        "Nome": "Batman - O Cavaleiro das Trevas",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "005",
+        "Nome": "12 Homens e uma Sentença",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "006",
+        "Nome": "A Lista de Schindler",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "007",
+        "Nome": "Pulp Fiction: Tempo de Violência",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "008",
+        "Nome": "O Senhor dos Anéis: O Retorno do Rei",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "009",
+        "Nome": "Três homens em Conflito",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "010",
+        "Nome": "Clube da Luta",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "011",
+        "Nome": "O Senhor dos Anéis: A Sociedade do Anel",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "012",
+        "Nome": "Forrest Gump: O Contador de Histórias",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "013",
+        "Nome": "Star Wars: Episódio V - O Império Contra-Ataca",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "014",
+        "Nome": "Inception",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "015",
+        "Nome": "O Senhor dos Anéis: As Duas Torres",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "016",
+        "Nome": "Um Estranho no Ninho",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "017",
+        "Nome": "Os Bons Companheiros",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "018",
+        "Nome": "Matrix",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "019",
+        "Nome": "Os Sete Samurais",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "020",
+        "Nome": "Guerra nas Estrelas - Uma Nova Esperança",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "021",
+        "Nome": "Cidade de Deus",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "022",
+        "Nome": "Seven: Os Sete Crimes Capitais",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "023",
+        "Nome": "A Felicidade Não se Compra",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "024",
+        "Nome": "O Silêncio dos Inocentes",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "025",
+        "Nome": "A Vida é Bela",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "026",
+        "Nome": "Os Suspeitos",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "027",
+        "Nome": "O Profissional",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "028",
+        "Nome": "O Resgate do Soldado Ryan",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "029",
+        "Nome": "A Viagem de Chihiro",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "030",
+        "Nome": "A Outra História Americana",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    },
+    {
+        "Codigo": "031",
+        "Nome": "Era uma Vez no Oeste",
+        "Preco": 49.90,
+        "Sinopse": "Teste"
+    }
+]
